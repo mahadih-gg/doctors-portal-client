@@ -1,0 +1,18 @@
+.contact{
+    background: linear-gradient(rgba(0, 0, 0, 0.79), rgba(33, 31, 31, 0.727)), url(../../../images/sectionBg.png);
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.contact form input{
+    padding: 20px;
+    border: 2px solid #19D3AE;
+    margin-bottom: 20px;
+}
+.contact form textarea{
+    resize: none;
+    border: 2px solid #19D3AE;
+}
+.btn-submit{
+    padding: 10px 100px;
+}

@@ -1,0 +1,12 @@
+.appointment{
+    background: linear-gradient(rgba(0, 0, 0, 0.761), rgba(33, 31, 31, 0.727)), url(../../../images/sectionBg.png);
+    height: 420px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 130px 0;
+}
+.appointment img{
+    height: 550px;
+    transform: translateY(-130px);
+
+}

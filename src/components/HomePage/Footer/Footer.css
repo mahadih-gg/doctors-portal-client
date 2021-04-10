@@ -1,0 +1,14 @@
+footer{
+    background: url(../../../images/footerBg.png);
+    background-size: cover;
+    height: 500px;
+}
+footer h5{
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #848B9F;
+}
+.social-icon{
+    font-size: 35px;
+    color: #19D3AE;
+}

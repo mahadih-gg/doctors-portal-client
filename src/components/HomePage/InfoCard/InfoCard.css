@@ -1,0 +1,18 @@
+.info-card{
+    padding: 0 5px;
+}
+.info-container{
+    height: 110px;
+    padding: 30px;
+    border-radius: 5px;
+}
+.info-primary{
+    background-color: #1CC7C1;
+}
+.info-secondary{
+    background-color: #3A4256;
+}
+
+.info-icon{
+    font-size: 35px;
+}
